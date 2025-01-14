@@ -1,0 +1,15 @@
+{
+  "jupyter-config-data": {
+    "defaultKernel": "python",
+    "appUrl": "./",
+    "kernelspecs": {
+      "python": {
+        "name": "Python (Pyodide)",
+        "spec": {
+          "display_name": "Python (Pyodide)",
+          "language": "python"
+        }
+      }
+    }
+  }
+}
